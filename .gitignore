@@ -1,0 +1,4 @@
+vitis_dummy_kernel/
+*.xo
+*.log
+main.cpp
